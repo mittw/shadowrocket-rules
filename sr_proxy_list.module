@@ -1,5 +1,5 @@
 #!name=proxy_list
-#!homepage=https://github.com/GMOogway/shadowrocket-rules
+#!homepage=https://github.com/mittw/shadowrocket-rules
 #!desc=Rules:27134 Created:07-28 07:33 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,funpay.ru,PROXY

@@ -1,5 +1,5 @@
 #!name=direct_list
-#!homepage=https://github.com/GMOogway/shadowrocket-rules
+#!homepage=https://github.com/mittw/shadowrocket-rules
 #!desc=Rules:112143 Created:07-28 07:33 Publisher:GMOogway
 [Rule]
 DOMAIN-SUFFIX,xiaqunfeng.cc,DIRECT
