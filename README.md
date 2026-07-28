@@ -31,7 +31,6 @@
 - **屏蔽（REJECT）规则**：
   - [https://raw.githubusercontent.com/mittw/shadowrocket-rules/master/sr_reject_list.module](https://raw.githubusercontent.com/mittw/shadowrocket-rules/master/sr_reject_list.module)
 
->每类规则提供了二个链接，一个需要代理才能访问，一个可以直接访问，请根据实际情况选择，只是jsdelivr会延迟12小时，但对于几万条的规则来说，没什么影响。
 
 ## 帮助文档
 
@@ -70,9 +69,6 @@
 
 > 最常用的规则是黑名单和白名单。区别在于对待 `未知网站` 的不同处理方式，黑名单默认直连，而白名单则默认使用代理。如果你选择恐惧症爆发，那就两个都下载好了，黑白名单切换使用，天下无忧。
 
-- **你提供了这么多规则，却没有我想要的 o(>.<)o**
-
-> 有任何建议或疑问，[请联系我](#问题反馈)。
 
 - **广告过滤不完全？**
 
