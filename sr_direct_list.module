@@ -1,6 +1,6 @@
 #!name=direct_list
 #!homepage=https://github.com/mittw/shadowrocket-rules
-#!desc=Rules:112578 Created:07-28 07:33 Publisher:GMOogway
+#!desc=Rules:112578 Created:07-28 07:33 Publisher:mittw
 [Rule]
 DOMAIN-SUFFIX,126.link,DIRECT
 DOMAIN-SUFFIX,163industry.com,DIRECT
