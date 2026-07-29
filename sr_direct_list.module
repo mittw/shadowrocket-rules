@@ -2,6 +2,7 @@
 #!homepage=https://github.com/mittw/shadowrocket-rules
 #!desc=Rules:112491 Created:07-28 07:33 Publisher:mittw
 [Rule]
+DOMAIN-SUFFIX,cn,DIRECT
 DOMAIN-SUFFIX,126.link,DIRECT
 DOMAIN-SUFFIX,163industry.com,DIRECT
 DOMAIN-SUFFIX,343480.com,DIRECT
@@ -81564,7 +81565,6 @@ DOMAIN-SUFFIX,bandoristation.com,DIRECT
 DOMAIN-SUFFIX,cfmeutencent.com,DIRECT
 DOMAIN-SUFFIX,lubandata.com,DIRECT
 DOMAIN-SUFFIX,cloudtomicro.com,DIRECT
-DOMAIN-SUFFIX,cn,DIRECT
 DOMAIN-SUFFIX,htcrrc.com,DIRECT
 DOMAIN-SUFFIX,leadmap.net,DIRECT
 DOMAIN-SUFFIX,tencentcmq.com,DIRECT
