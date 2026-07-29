@@ -1,2 +1,7 @@
 *.module
 !sr_bilibili_list.module
+!sr_apple_list.module
+!sr_applemusic_list.module
+!sr_microsoft_list.module
+!sr_onedrive_list.module
+!sr_private_list.module
